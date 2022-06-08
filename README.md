@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Javascript ES6, API, VUE JS**
 
-- 👯 I’m looking to collaborate on [NU Online Jateng](https://jateng.nu.or.id)
-
 - 👨‍💻 All of my projects are available at [on update](on update)
 
 - 💬 Ask me about **Laravel, PHP, WEB**
