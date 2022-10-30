@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarwonozt&label=Profile%20views&color=0e75b6&style=flat" alt="jarwonozt" /> </p>
 
-- 🔭 I’m currently working on [G-adacemy](https://g-academy.net)
+- 🔭 I’m currently working on [Gosmart Academy](https://gosmart.id)
 
-- 🌱 I’m currently learning **Javascript ES6, API, VUE JS**
+- 🌱 I’m currently learning **Javascript ES6, API, NEXT JS**
 
 - 👨‍💻 All of my projects are available at [on update](on update)
 
