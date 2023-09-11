@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jarwonozt/jarwonozt/raw/main/assets/profile-banner.png" alt="Hello, I'm Jarwonozt" />
+  <img src="https://github.com/jarwonozt.png" alt="Hello, I'm Jarwonozt" />
 </p>
 
 ### Hello, my name is Jarwonozt! 👋
