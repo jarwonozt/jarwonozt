@@ -28,9 +28,9 @@ I am a software developer with a passion for solving problems through code. Welc
 
 #### 📫 Bagaimana Menghubungi Saya:
 
-- Email: [nama@email.com](mailto:nama@email.com)
-- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/jarwonozt/)
-- Twitter: [@jarwonozt](https://twitter.com/jarwonozt)
+- Email: [nama@email.com](mailto:jarwonoztaveiro@email.com)
+- LinkedIn: [Profil LinkedIn](https://id.linkedin.com/in/jarwonozt-aveiro-9545851b9)
+- Twitter: [@jarwonozt](https://twitter.com/coinimax)
 
 #### 🌐 Visit My Website:
 
