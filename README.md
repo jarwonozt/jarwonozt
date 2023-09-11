@@ -26,7 +26,7 @@ I am a software developer with a passion for solving problems through code. Welc
 - Explore the latest concepts in web development.
 - Understand best practices in software development.
 
-#### 📫 Bagaimana Menghubungi Saya:
+#### 📫 How to Contact Me:
 
 - Email: [jarwonoztaveiro@gmail.com](mailto:jarwonoztaveiro@email.com)
 - LinkedIn: [Profil LinkedIn](https://id.linkedin.com/in/jarwonozt-aveiro-9545851b9)
