@@ -34,6 +34,6 @@ I am a software developer with a passion for solving problems through code. Welc
 
 #### 🌐 Visit My Website:
 
-- [https://www.jarwonozt.com](https://www.jarwonozt.com)
+- [https://www.jarwonozt.com](https://www.tecnozt.my.id)
 
 Thanks for visiting my GitHub profile! Feel free to explore my projects and star them if you find them useful.
