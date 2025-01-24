@@ -14,7 +14,7 @@ I am a software developer with a passion for solving problems through code. Welc
 - **Database:** Redis, MySQL
 - **Alat Pengembangan:** VS Code, Git, Docker
 
-#### 💼 TOP 5 WEB Projects:
+#### 💼 TOP 10 WEB Projects:
 
 - [GoSmart Courses](https://gosmart.id): This is an online course and event website.
 - [Sindu](https://sindu.kemenag.go.id): Sistem Informasi Umat Hindu.
@@ -25,6 +25,7 @@ I am a software developer with a passion for solving problems through code. Welc
 - [Kemenag](https://kemenag.go.id): Kementrian Agama Republik Indonesia.
 - [PANEL Cheat](https://hanoman.androidapp.io): Panel API For Auth Cheat MLBB
 - [ARASTAMAPESS](https://arastamapress.id): Book Publisher
+- coming sonn...
 
 #### 📚 I am studying:
 
