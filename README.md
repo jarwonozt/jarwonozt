@@ -21,6 +21,7 @@ I am a software developer with a passion for solving problems through code. Welc
 - [Pendis Kemenag](https://pendis.kemenag.go.id): This is the Ministry of Religion's Islamic education portal website.
 - [PMII UNUSIA](https://pmiiunusia.id): Official Website of the Indonesian Islamic Student Movement, Nahdlatul Ulama University of Indonesia, Jakarta.
 - [SIPTENAN](https://siptenan.apji.org): Search System Application and Availability of Journal Article Slots
+- [SI KEUANGAN BKD](https://bkd2024.gosmart.id/): Sistem Informasi Keuangan Badan Kinerja Dosen.
 - [SIMALET](https://si-ponkaisa.my.id/): Sistem Informasi Manajemen Atlet.
 - [Kemenag](https://kemenag.go.id): Kementrian Agama Republik Indonesia.
 - [PANEL Cheat](https://hanoman.androidapp.io): Panel API For Auth Cheat MLBB
