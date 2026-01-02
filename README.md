@@ -1,55 +1,135 @@
-<h1 align="center">Hi there 👋, I'm Jarwonozt</h1>
-<h3 align="center">A Software Developer Who Loves Solving Problems Through Code</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF95&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+to+build+and+explore.;Always+learning+new+things." alt="Typing SVG" />
-</p>
+# 🟣 JARWONOZT  
+### ⚡ FULLSTACK ENGINEER
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Digital+Systems;Backend-First+Engineer;API+%7C+Database+%7C+Realtime;Laravel+%7C+PHP+%7C+PostgreSQL" />
 
-🌱 I’m passionate about building efficient, scalable, and impactful software  
-🛠️ Currently working with **Laravel**, **JavaScript**, **Livewire**, **MySQL**, and **Linux**  
-🚀 Always eager to explore new technologies and improve existing systems  
-📫 How to reach me: [jarwonoztaveiro@gmail.com](mailto:jarwonoztaveiro@gmail.com)  
-🌐 Portfolio: [https://github.com/jarwonozt](https://github.com/jarwonozt)
-
-### 🔗 Let's Connect!
-<p align="left">
-  <a href="mailto:jarwonoztaveiro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/jarwonozt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-#### 📚 I am studying:
-
-- Improve skills in algorithms and data structures.
-- Explore the latest concepts in web development.
-- Understand best practices in software development.
-
-#### 📫 How to Contact Me:
-
-- Email: [jarwonoztaveiro@gmail.com](mailto:jarwonoztaveiro@email.com)
-- LinkedIn: [Profil LinkedIn](https://id.linkedin.com/in/jarwonozt-aveiro-9545851b9)
-- Twitter: [@jarwonozt](https://twitter.com/coinimax)
-- Facebook: [jarwonozt](https://facebook.com/jarwonozt.jarwonozt)
-
-#### 🌐 Visit My Website:
-
-- [https://www.tecnozt.pro](https://www.tecnozt.pro)
-
-Thanks for visiting my GitHub profile! Feel free to explore my projects and star them if you find them useful.
----
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> </p>
+---
+
+## 🌌 SYSTEM PROFILE
+
+```yaml
+codename: JARWONOZT
+role: Fullstack Engineer
+speciality:
+  - Backend Architecture
+  - REST API
+  - Database Design
+  - Realtime Systems
+location: Indonesia
+status: Online
+```
 
 ---
 
+## 🧠 CORE DIRECTIVE
 
+> _“The future belongs to engineers  
+who understand systems, not just syntax.”_
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+I architect and develop **production-ready applications**  
+from **schema design → backend logic → interactive UI**  
+with focus on **performance, security, and scalability**.
 
+---
 
+## ⚙️ NEON STACK
+
+### 🧬 BACKEND CORE
+![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php&logoColor=00F7FF)
+![Laravel](https://img.shields.io/badge/Laravel-0A0F2C?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-0A0F2C?style=for-the-badge&logo=codeigniter&logoColor=FF6F00)
+![NodeJS](https://img.shields.io/badge/Node.js-0A0F2C?style=for-the-badge&logo=node.js&logoColor=00FF9C)
+
+### 🎛️ FRONTEND INTERFACE
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Livewire](https://img.shields.io/badge/Livewire-0A0F2C?style=for-the-badge&logo=laravel&logoColor=FB70A9)
+![jQuery](https://img.shields.io/badge/jQuery-0A0F2C?style=for-the-badge&logo=jquery&logoColor=00BFFF)
+
+### 🧠 DATABASE MATRIX
+![MySQL](https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00E5FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F2C?style=for-the-badge&logo=postgresql&logoColor=4DB8FF)
+
+### 🛰️ INFRASTRUCTURE
+![Docker](https://img.shields.io/badge/Docker-0A0F2C?style=for-the-badge&logo=docker&logoColor=00BFFF)
+![Nginx](https://img.shields.io/badge/Nginx-0A0F2C?style=for-the-badge&logo=nginx&logoColor=00FF7F)
+![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux&logoColor=FFD700)
+
+---
+
+## 🧪 ACTIVE MODULES
+
+🔹 **LMS & Digital Learning Systems**  
+Paid access, quizzes, enrollment logic
+
+🔹 **Online Library Platforms**  
+Controlled access, digital reading experience
+
+🔹 **Backend-Heavy Web Applications**  
+Admin panels, dashboards, REST APIs
+
+🔹 **External Integrations**  
+Payment gateway (Midtrans), WebSocket, third-party APIs
+
+---
+
+## 🧿 PROJECT ARCHIVES
+
+### 🔐 API CONTROL NODE
+- Domain validation  
+- Secure API-key authentication  
+- Multi-client system  
+
+### 📚 KNOWLEDGE VAULT (LMS)
+- Laravel 11  
+- Paid reading & borrowing logic  
+- Flipbook integration  
+
+### 🎬 NEON VIDEO STREAM
+- Video.js engine  
+- Scroll-based navigation  
+- Performance-optimized rendering  
+
+---
+
+## 📡 GITHUB SIGNAL
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jarwonozt&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarwonozt&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🔋 ENGINEERING PROTOCOL
+
+```diff
++ Database first
++ Security by design
++ Performance matters
++ Clean > Clever
++ Shipping is mandatory
+```
+
+---
+
+## 🧠 TRANSMISSION CHANNEL
+
+- 🌐 GitHub → https://github.com/Jarwonozt  
+- 🧪 Portfolio → initializing…
+
+---
+
+<div align="center">
+
+### ⚠️ SYSTEM MESSAGE
+```txt
+"Future systems are written today."
+```
+
+</div>
