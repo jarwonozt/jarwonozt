@@ -7,7 +7,7 @@
 
 </div>
 
----
+--
 
 ## 🌌 SYSTEM PROFILE
 
@@ -23,7 +23,7 @@ location: Indonesia
 status: Online
 ```
 
----
+--
 
 ## 🧠 CORE DIRECTIVE
 
@@ -34,7 +34,7 @@ I architect and develop **production-ready applications**
 from **schema design → backend logic → interactive UI**  
 with focus on **performance, security, and scalability**.
 
----
+--
 
 ## ⚙️ NEON STACK
 
@@ -58,7 +58,7 @@ with focus on **performance, security, and scalability**.
 ![Nginx](https://img.shields.io/badge/Nginx-0A0F2C?style=for-the-badge&logo=nginx&logoColor=00FF7F)
 ![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux&logoColor=FFD700)
 
----
+--
 
 ## 🧪 ACTIVE MODULES
 
@@ -74,7 +74,7 @@ Admin panels, dashboards, REST APIs
 🔹 **External Integrations**  
 Payment gateway (Midtrans), WebSocket, third-party APIs
 
----
+--
 
 ## 🧿 PROJECT ARCHIVES
 
@@ -93,18 +93,7 @@ Payment gateway (Midtrans), WebSocket, third-party APIs
 - Scroll-based navigation  
 - Performance-optimized rendering  
 
----
-
-## 📡 GITHUB SIGNAL
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Jarwonozt&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarwonozt&layout=compact&theme=radical)
-
-</div>
-
----
+--
 
 ## 🔋 ENGINEERING PROTOCOL
 
@@ -116,14 +105,14 @@ Payment gateway (Midtrans), WebSocket, third-party APIs
 + Shipping is mandatory
 ```
 
----
+--
 
 ## 🧠 TRANSMISSION CHANNEL
 
 - 🌐 GitHub → https://github.com/Jarwonozt  
 - 🧪 Portfolio → initializing…
 
----
+--
 
 <div align="center">
 
